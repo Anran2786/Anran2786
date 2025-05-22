@@ -1,9 +1,4 @@
 # 喵姆...欸？
-<style>
-h2 { 
-    border-bottom: none
-}
-</style>
 ## 来这里看什么喵
 
 
