@@ -1,5 +1,7 @@
 <style>
-h2 { border-bottom: none }
+h2 { 
+    border-bottom: none
+}
 </style>
 
 # 喵姆...欸？
